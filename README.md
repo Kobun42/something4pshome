@@ -1,2 +1,2 @@
-# something4pshome
-this is where my documentation of PS Home will go.
+#Information
+I'm trying this in order to show any documentation I found for Playstation 3's Home application.
