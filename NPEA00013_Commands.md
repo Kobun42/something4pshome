@@ -11,3 +11,7 @@ If you know how to use MS-DOS or Command Prompt, then you should know what this 
 Copies files to a directory.
 ## contentServerOverride (server url or ip)
 This command changes the server from which content is fetched from, so if you used the map command after this, it'll instead try to fetch it from the server you selected.
+## useOfflineContent (0 or 1)
+This command is known to only work on certain versions, such as the early 0.9 home build. The build I am focusing on does NOT have support for this command, due to it wanting something from medius. I believe this build may have been compiled improperly. 
+## walkspeed (speed)
+Sets your walk speed to whatever you typed. You can either have super-sonic speed or... um... yeah...
