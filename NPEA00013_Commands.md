@@ -2,7 +2,7 @@
 ## home
 Logs one into Playstation Home.
 ## map (map_name)
-Attempts to grab an SDC file from the homeps3-content.online.scee.com server. You need the LOCALSCENELIST.XML file in the Environment folder for development versions of the application.
+Attempts to send you to a map on the current server. You need the LOCALSCENELIST.XML file in the Environment folder for development versions of the application. Without an argument, it returns the map name and version.
 ## loadmodel (filename.dat)
 Loads a model into the current scene, whether it be the login screen, or anything like Home Square, it will put it in. This command uses DAT files.
 ## cd (directory)
@@ -15,3 +15,11 @@ This command changes the server from which content is fetched from, so if you us
 This command is known to only work on certain versions, such as the early 0.9 home build. The build I am focusing on does NOT have support for this command, due to it wanting something from medius. I believe this build may have been compiled improperly. 
 ## walkspeed (speed)
 Sets your walk speed to whatever you typed. You can either have super-sonic speed or... um... yeah...
+## saveAvatar (name)
+If a folder titled "avatars" is in your home directory, you can save an avatar into there.
+## loadAvatar (name)
+If a folder titled "avatars" is in your home directory, you can load an avatar from there.
+## overrideUserType (type)
+Pro tip: Put "overrideUserType regular" into your hubstartup.txt to remove the "Welcome to Playstation Home" messages.
+## VHS commands
+These toggle the recording system on home and whatnot.
