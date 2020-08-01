@@ -39,3 +39,5 @@ Loads a custom navigator xml file in the "nav" directory.
 Name is self explanitory.
 ## muisOverride (server)
 Currently unknown.
+## lc (Code)
+Runs lua code.
