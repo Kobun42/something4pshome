@@ -31,3 +31,11 @@ Equips the requested ID as long as it's on the server or in your home directory.
 Mounts the requested BAR/SDAT file in the Home directory. No, sharcs don't work, sadly.
 ## * debugcam
 Toggles free camera mode.
+## logoff
+Logs you off of Playstation Home (When used in offline mode, pressing the cross/circle button may cause weird effects, such as going to online mode.)
+## loadNav (xml file)
+Loads a custom navigator xml file in the "nav" directory.
+## dnsOverride (server)
+Name is self explanitory.
+## muisOverride (server)
+Currently unknown.
