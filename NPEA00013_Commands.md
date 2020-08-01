@@ -41,3 +41,9 @@ Name is self explanitory.
 Currently unknown.
 ## lc (Code)
 Runs lua code.
+## Teleport (x) (y) (z)
+Self explanitory. Teleports you to the desired X, Y, and Z coordinates.
+## disablecharactercollision (0 or 1)
+If 1, allows the character to phase through walls. If 0, the character will obey collision.
+## cacheFile (command)
+Controls cache. (no, sharcs still don't work, sadly.)
