@@ -21,7 +21,7 @@ If a folder titled "avatars" is in your home directory, you can save an avatar i
 If a folder titled "avatars" is in your home directory, you can load an avatar from there.
 ## overrideUserType (type)
 Pro tip: Put "overrideUserType regular" into your hubstartup.txt to remove the "Welcome to Playstation Home" messages.
-## VHS commands
+## VCR commands
 These toggle the recording system on home and whatnot.
 ## setNumNPCs (number)
 Sets the amount of NPCs in the scene. The fact that they do not obey collision is scary though. (Large numbers may crash the game!)
