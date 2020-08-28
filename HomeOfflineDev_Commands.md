@@ -1,4 +1,4 @@
-# THIS IS INCOMPLETE!!!
+# Command Line Stuff
 ## home
 Logs one into Playstation Home.
 ## map (map_name)
@@ -47,3 +47,13 @@ Self explanitory. Teleports you to the desired X, Y, and Z coordinates.
 If 1, allows the character to phase through walls. If 0, the character will obey collision.
 ## cacheFile (command)
 Controls cache. (no, sharcs still don't work, sadly.)
+
+# Hotkeys
+## F2
+This resets any lua game or pauses arcade games.
+## F4
+This snaps a snapshot of whatever is on screen.
+## F9
+Toggles Console
+## F10
+Toggles Freecam
