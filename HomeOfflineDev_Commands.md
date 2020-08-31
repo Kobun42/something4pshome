@@ -49,6 +49,8 @@ If 1, allows the character to phase through walls. If 0, the character will obey
 Controls cache. (no, sharcs still don't work, sadly.)
 
 # Hotkeys
+## F1
+On older clients, this would teleport you to Harbour Studio. This is unused in the 1.86 Offline Client.
 ## F2
 This resets any lua game or pauses arcade games.
 ## F4
