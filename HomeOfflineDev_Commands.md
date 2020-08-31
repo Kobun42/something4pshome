@@ -47,6 +47,10 @@ Self explanitory. Teleports you to the desired X, Y, and Z coordinates.
 If 1, allows the character to phase through walls. If 0, the character will obey collision.
 ## cacheFile (command)
 Controls cache. (no, sharcs still don't work, sadly.)
+## useOfflineContent (false/true)
+Name is self explanitory.
+## screenDebug (off/video/all)
+Shows debug info about screens. Video will only show debug info if it is a video screen. All will show debug info regardless of it's type.
 
 # Hotkeys
 ## F1
