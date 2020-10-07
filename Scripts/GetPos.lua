@@ -1,7 +1,5 @@
 ----------------------------------------------------------------------------------------------
---			KOBUN42 WAS HERE
---			GETS POSITION OR SOMETHING
---			Written by... guess who? Kobun42.
+--			THANK YOU FOR USING THIS SCRIPT.
 --			I only have ask of one thing in return. I want beans.
 ----------------------------------------------------------------------------------------------
 
