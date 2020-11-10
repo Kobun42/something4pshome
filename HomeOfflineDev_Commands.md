@@ -38,7 +38,7 @@ Loads a custom navigator xml file in the "nav" directory.
 ## dnsOverride (server)
 Name is self explanitory.
 ## muisOverride (server)
-Currently unknown.
+Currently unknown, presumably for medius servers [could be wrong]
 ## lc (Code)
 Runs lua code.
 ## Teleport (x) (y) (z)
